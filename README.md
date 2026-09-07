@@ -2,19 +2,21 @@
 
 Static academic research website for **Wei Zheng, Ph.D., P.E.**, Professor of Civil & Environmental Engineering at Jackson State University.
 
-**Content basis:** mirrors the original Codex/ChatGPT site prose (research profile, full current project narratives, infrastructure methods, AI & ethics, publications, and all YouTube embeds), plus approved supplements from `Website_Content_Review_v2.md` (hero lead, identity, quick-nav, education year rule, research interests, previous funded projects, full community activity inventory, Scholar profile `kqgU5WQAAAAJ`).
+**Purpose:** Position the site for prospective Fulbright hosts and interdisciplinary collaborators—human-centered, domain-grounded AI; modular pipelines; complementary NSF TIP + EIR teaching-and-learning program; MarTREC infrastructure AI/UQ; emerging disciplinary/ethical decision research; and an enriched Teaching and Research Community inventory.
+
+**Live site (GitHub Pages):** after repo rename, `https://nickdaven.github.io/research-site/` (until the GitHub username is changed). Ideal public URL if the account is renamed to WeiZheng: `https://weizheng.github.io/research-site/`.
 
 ## Files
 
 | File | Purpose |
 |------|---------|
 | `index.html` | Full single-page site content |
-| `styles.css` | Academic design adapted from original Codex CSS |
+| `styles.css` | Academic design (mobile-friendly) |
 | `script.js` | Mobile nav toggle and footer year |
 | `assets/wei-zheng.jpg` | Portrait |
 | `assets/favicon.svg` | Favicon |
-| `assets/original-style.css` | Saved original Codex stylesheet (reference) |
 | `Wei_Zheng_CV_2026.pdf` | Curriculum vitae (required for CV links) |
+| `CV_REVISION_DRAFT.md` | Proposed CV first-page framing aligned with site (do not overwrite PDF blindly) |
 
 ## Open locally
 
@@ -26,8 +28,14 @@ Static academic research website for **Wei Zheng, Ph.D., P.E.**, Professor of Ci
 
 ## Main sections
 
-About · Research Interests · Funded Projects (Current + Previous) · Infrastructure · Community · AI & ethics · Publications · YouTube · Contact
+About · Research · Collaboration · Funded Projects (TIP+EIR integrated + MarTREC + Previous) · Community · Human-Centered AI / Ethics · Publications · Videos · Contact
+
+Infrastructure methods and AI/ethics are Research-related subsections (linked from nav via Research / in-page anchors).
 
 ## No build step
 
 Plain HTML/CSS/JS only. Edit copy in `index.html`; colors/layout in `styles.css`.
+
+## Repository
+
+GitHub: `NickDaven/research-site` (renamed from `wei-zheng-research-site`). Pages served from `main` / root.
