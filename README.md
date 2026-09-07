@@ -1,8 +1,8 @@
-# Wei Zheng Research Site
+﻿# Wei Zheng Research Site
 
 Static academic research website for **Wei Zheng, Ph.D., P.E.**, Professor of Civil & Environmental Engineering at Jackson State University.
 
-**Purpose:** Position the site for prospective Fulbright hosts and interdisciplinary collaborators—human-centered, domain-grounded AI; modular pipelines; complementary NSF TIP + EIR teaching-and-learning program; MarTREC infrastructure AI/UQ; emerging disciplinary/ethical decision research; and an enriched Teaching and Research Community inventory.
+**Purpose:** Position the site for interdisciplinary collaborators—human-centered, domain-grounded AI; modular pipelines; complementary NSF TIP + EIR teaching-and-learning program; MarTREC infrastructure AI/UQ; emerging disciplinary/ethical decision research; and an enriched Teaching and Research Community inventory.
 
 **Live site (GitHub Pages):** `https://nickdaven.github.io/wei-zheng-research-site/`.
 
