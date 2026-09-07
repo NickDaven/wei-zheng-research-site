@@ -709,3 +709,28 @@ footer a { text-decoration: none; }
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
 }
+
+
+/* Research in Progress */
+.rip-item {
+  padding: 1.5rem 0 1.75rem;
+  border-bottom: 1px solid var(--border);
+}
+.rip-item:last-child { border-bottom: none; }
+.rip-item h3 { margin-top: 0; margin-bottom: 0.85rem; }
+.rip-item h4 { margin-top: 1.35rem; margin-bottom: 0.65rem; font-size: 1.15rem; }
+.rip-emerging {
+  margin-top: 1rem;
+  padding: 1.5rem 1.35rem 1.75rem;
+  background: var(--secondary);
+  border-radius: var(--radius);
+  border-bottom: none;
+}
+.research-pipeline {
+  max-width: none;
+  padding: 0.9rem 1.1rem;
+  background: #edf3fa;
+  border-left: 4px solid var(--primary);
+  border-radius: 4px;
+  font-size: 0.98rem;
+}
