@@ -4,7 +4,7 @@ Static academic research website for **Wei Zheng, Ph.D., P.E.**, Professor of Ci
 
 **Purpose:** Position the site for prospective Fulbright hosts and interdisciplinary collaborators—human-centered, domain-grounded AI; modular pipelines; complementary NSF TIP + EIR teaching-and-learning program; MarTREC infrastructure AI/UQ; emerging disciplinary/ethical decision research; and an enriched Teaching and Research Community inventory.
 
-**Live site (GitHub Pages):** after repo rename, `https://nickdaven.github.io/research-site/` (until the GitHub username is changed). Ideal public URL if the account is renamed to WeiZheng: `https://weizheng.github.io/research-site/`.
+**Live site (GitHub Pages):** `https://nickdaven.github.io/wei-zheng-research-site/`.
 
 ## Files
 
@@ -38,4 +38,4 @@ Plain HTML/CSS/JS only. Edit copy in `index.html`; colors/layout in `styles.css`
 
 ## Repository
 
-GitHub: `NickDaven/research-site` (renamed from `wei-zheng-research-site`). Pages served from `main` / root.
+GitHub: `NickDaven/wei-zheng-research-site`. Pages served from `main` / root.
